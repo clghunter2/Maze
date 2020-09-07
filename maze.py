@@ -1,2 +1,3 @@
-print('hiya')
-print('boo')
+import turtle
+
+turtle.forward(100)
